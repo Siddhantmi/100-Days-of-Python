@@ -66,20 +66,20 @@
 #--------------------------------------------------------------------------------------------------------------------
 # Day 2 - Project - Tip calulator
 
-# print("welcome to tip calculator")
+print("welcome to tip calculator")
 
 
-# total_bill = input("What is your total bill ?")
+total_bill = input("What is your total bill ?")
 
-# tip_percentage = input("What percentage tip would you like to give ?")
+tip_percentage = input("What percentage tip would you like to give ?")
 
-# total_people = input("How many people to split the bill ?")
+total_people = input("How many people to split the bill ?")
 
-# tip_amount = (float(total_bill) * float(tip_percentage)) / 100
+tip_amount = (float(total_bill) * float(tip_percentage)) / 100
 
-# final_total_amount = float(total_bill) + tip_amount
+final_total_amount = float(total_bill) + tip_amount
 
-# each_person_amount = round(final_total_amount / int(total_people), 2)
+each_person_amount = round(final_total_amount / int(total_people), 2)
 
 
-# print(f"Each person would have to pay amount : Rupee {each_person_amount} only  Enjoy!")
+print(f"Each person would have to pay amount : Rupee {each_person_amount} only  Enjoy!")

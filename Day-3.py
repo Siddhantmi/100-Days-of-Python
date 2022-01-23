@@ -38,6 +38,7 @@
 # # Exercise 3 - Leap year calculator
 
 # # 🚨 Don't change the code below 👇
+# print("Leap year calculator")
 # year = int(input("Which year do you want to check? "))
 # # 🚨 Don't change the code above 👆
 
@@ -50,7 +51,7 @@
 #     else:
 #       print("Not leap year")
 #   else:
-#     print("Not leap year")
+#     print("leap year")
 # else:
 #   print("Not leap year")
 
@@ -119,8 +120,8 @@
 
 # if love_score < 10 or love_score > 90:
 #   print(f"Your love score is {love_score}, you both together are like coke and mentos.")
-# elif love_score > 40 and love_score < 50:
-#   print(f"Your love score is {love_score}, you are alright together")
+# elif love_score > 40 and love_score < 60:
+#   print(f"Your love score is {love_score}, you both a make")
 # else:
 #   print(f"Your score is {love_score}")
 
